@@ -1,0 +1,25 @@
+{
+  "name": "awesomesequelize",
+  "version": "1.0.0",
+  "description": "Learning how to Use the sequelize ORM for postgresql Db with NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogwurujohnson/AwesomeSequelize.git"
+  },
+  "author": "ogwurujohnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogwurujohnson/AwesomeSequelize/issues"
+  },
+  "homepage": "https://github.com/ogwurujohnson/AwesomeSequelize#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "pg": "^7.4.3",
+    "sequelize": "^4.39.0"
+  }
+}
